@@ -1,0 +1,6 @@
+@GoodsApp.API_HostAddress = http://localhost:5157
+
+GET {{GoodsApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
